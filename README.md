@@ -1,5 +1,26 @@
 # React + Vite
 
+# 📚 Online Library System (React + Redux)
+
+This is a simple **online library system** built using React, React Router, and Redux.  
+It allows users to browse books, view details, and add new books to the collection.
+
+---
+
+## 🔧 Features
+
+- ✅ Home page with book categories and popular books
+- ✅ Browse books by category and search
+- ✅ View book details
+- ✅ Add new books using a form (with Redux)
+- ✅ 404 Page Not Found handling
+- ✅ Styled with Tailwind CSS
+- ✅ Responsive grid layout for book cards
+
+---
+
+## 🚀 Getting Started
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
